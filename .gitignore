@@ -121,7 +121,6 @@ doc
 linux
 mac
 project_files_backup
-*.md
 *.txt
 CMakeFiles
 output
